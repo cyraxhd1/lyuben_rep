@@ -1,1 +1,2 @@
-data = 3
+data = 123123
+data= data*data
